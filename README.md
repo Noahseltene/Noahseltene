@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fevenseltene
+- 👀 I’m interested in python programing
+- 🌱 I’m currently learning Fullstack development.
+- 📫 How to reach me fevenseltene23@gmail.com.
